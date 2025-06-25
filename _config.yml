@@ -134,14 +134,14 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: false
+  #books:
+    #output: false
   news:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
+  #projects:
+    #output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -163,6 +163,17 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _includes/repository/
+  - _pages/en-uk/repositories.md
+  - _pages/en-uk/teaching.md
+  - _pages/en-uk/dropdown.md
+  - _pages/en-uk/projects.md
+  - _pages/zh-cn/repositories.md
+  - _pages/zh-cn/teaching.md
+  - _pages/zh-cn/projects.md
+  - _pages/zh-cn/dropdown.md
+  - _projects/
+  - _books/
   - bin/
   - CONTRIBUTING.md
   - CONTRIBUTING.pt-br.md
