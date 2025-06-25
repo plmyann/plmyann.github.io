@@ -41,19 +41,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zh-cn/publications/";
           },
-        },{id: "nav-博客",
-          title: "博客",
+        },{id: "nav-文摘",
+          title: "文摘",
           description: "um tema simples para acadêmicos",
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/zh-cn/blog/";
-          },
-        },{id: "nav-联系",
-          title: "联系",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/zh-cn/contact/";
           },
         },{id: "nav-机会",
           title: "机会",
@@ -61,6 +54,13 @@ ninja.data = [{
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/zh-cn/opportunities/";
+          },
+        },{id: "nav-联系",
+          title: "联系",
+          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          section: "Menu de navegação",
+          handler: () => {
+            window.location.href = "/zh-cn/contact/";
           },
         },{id: "news-um-anúncio-simples-em-uma-linha",
           title: 'Um anúncio simples em uma linha.',
