@@ -113,12 +113,12 @@ disqus_shortname: multi-language-al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: #medium.com
+    rss_url: #https://medium.com/@al-folio/feed
+  - name: #Google Blog
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: #https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: #2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -181,8 +181,8 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/en-us/about_einstein.md
-  - _pages/pt-br/about_einstein.md
+  - _pages/en-uk/about_wz.md
+  - _pages/zh-cn/about_wz.md
   - purgecss.config.js
   - README.md
   - README.pt-br.md
@@ -636,10 +636,10 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume_en-us
-    json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
+  - data: resume_en-uk
+    json: assets/json/resume_en-uk.json # it can also be an url
+  - data: resume_zh-cn
+    json: assets/json/resume_zh-cn.json # it can also be an url
 
 jsonresume:
   - basics
