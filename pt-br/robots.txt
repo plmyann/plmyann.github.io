@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://plmyann.github.io/sitemap.xml
