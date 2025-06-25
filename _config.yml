@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+first_name: Zhang Integrative Ecology Lab |
+middle_name: 
+last_name: ZIEL
+keywords: biodiversity, ecology, macroecology, mammals, birds, connectivity, movement, interaction # add your own keywords or leave empty
+icon: lab_logo1.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://plmyann.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -344,8 +344,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br", "fr-ca"]
-default_lang: "en-us"
+languages: ["en-uk", "zh-cn"]
+default_lang: "en-uk"
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
@@ -397,7 +397,7 @@ enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
-enable_project_categories: true # enables categorization of projects into multiple categories
+enable_project_categories: true # enables categorisation of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
