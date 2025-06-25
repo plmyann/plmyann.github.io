@@ -403,23 +403,25 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 2rem;
+    font-size: 2.5rem;
 
     a {
       img {
         width: 3.2rem;
         height: 3.2rem;
+        margin-top: 2rem;
         margin-bottom: 1rem;
       }
 
       svg {
-        width: 3rem;
-        height: 3.5rem;
+        width: 3.2rem;
+        height: 3.8rem;
+        margin-top: 2rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 3.2rem;
+          height: 3.2rem;
         }
       }
 
@@ -439,7 +441,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1.0rem;
   }
 }
 
