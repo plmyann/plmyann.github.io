@@ -1,11 +1,11 @@
 ---
 page_id: profiles
 layout: profiles
-permalink: /people/
-title: membros
+permalink: /team/
+title: 团队
 description: membros do grupo de pesquisa ou laboratório
 nav: true
-nav_order: 7
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

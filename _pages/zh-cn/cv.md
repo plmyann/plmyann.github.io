@@ -1,8 +1,8 @@
 ---
 page_id: cv
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /contact/
+title: 联系
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf

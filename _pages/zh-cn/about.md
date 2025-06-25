@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: sobre
+title: 简介
 permalink: /
 subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
 

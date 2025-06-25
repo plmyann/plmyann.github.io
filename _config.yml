@@ -165,11 +165,9 @@ include: ["_pages", "_scripts"]
 exclude:
   - _includes/repository/
   - _pages/en-uk/repositories.md
-  - _pages/en-uk/teaching.md
   - _pages/en-uk/dropdown.md
   - _pages/en-uk/projects.md
   - _pages/zh-cn/repositories.md
-  - _pages/zh-cn/teaching.md
   - _pages/zh-cn/projects.md
   - _pages/zh-cn/dropdown.md
   - _projects/
