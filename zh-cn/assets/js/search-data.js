@@ -14,39 +14,53 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-sobre",
-    title: "sobre",
+    id: "nav-简介",
+    title: "简介",
     section: "Menu de navegação",
     handler: () => {
       window.location.href = "/zh-cn/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "um tema simples para acadêmicos",
+  },{id: "nav-团队",
+          title: "团队",
+          description: "membros do grupo de pesquisa ou laboratório",
           section: "Menu de navegação",
           handler: () => {
-            window.location.href = "/zh-cn/blog/";
+            window.location.href = "/zh-cn/team/";
           },
-        },{id: "nav-publicações",
-          title: "publicações",
+        },{id: "nav-新闻",
+          title: "新闻",
+          description: "",
+          section: "Menu de navegação",
+          handler: () => {
+            window.location.href = "/zh-cn/news/";
+          },
+        },{id: "nav-发表",
+          title: "发表",
           description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/zh-cn/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-博客",
+          title: "博客",
+          description: "um tema simples para acadêmicos",
+          section: "Menu de navegação",
+          handler: () => {
+            window.location.href = "/zh-cn/blog/";
+          },
+        },{id: "nav-联系",
+          title: "联系",
           description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
           section: "Menu de navegação",
           handler: () => {
-            window.location.href = "/zh-cn/cv/";
+            window.location.href = "/zh-cn/contact/";
           },
-        },{id: "nav-membros",
-          title: "membros",
-          description: "membros do grupo de pesquisa ou laboratório",
+        },{id: "nav-机会",
+          title: "机会",
+          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
           section: "Menu de navegação",
           handler: () => {
-            window.location.href = "/zh-cn/people/";
+            window.location.href = "/zh-cn/opportunities/";
           },
         },{id: "post-a-post-with-plotly-js",
         
