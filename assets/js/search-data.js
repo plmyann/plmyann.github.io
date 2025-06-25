@@ -471,12 +471,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "",handler: () => {
-              window.location.href = "/books/en-us/the_godfather/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/books/pt-br/the_godfather/";
+              window.location.href = "/books/en-uk/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
