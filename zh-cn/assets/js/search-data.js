@@ -90,20 +90,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/zh-cn/blog/";
               },
-            },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Outras opções",
-              handler: () => {
-                window.location.href = "/zh-cn/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Outras opções",
-              handler: () => {
-                window.location.href = "/zh-cn/blog/";
-              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -376,7 +362,7 @@ ninja.data = [{
         section: "Postagens",
         handler: () => {
           
-            window.location.href = "/zh-cn/assets/pdf/en-us/example_pdf.pdf";
+            window.location.href = "/zh-cn/assets/pdf/pt-br/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -434,11 +420,11 @@ ninja.data = [{
             window.location.href = "/zh-cn/blog/2015/math/";
           
         },
-      },{id: "post-a-post-with-code",
+      },{id: "post-uma-postagem-com-código",
         
-          title: "a post with code",
+          title: "uma postagem com código",
         
-        description: "an example of a blog post with some code",
+        description: "um exemplo de uma postagem em um blog com código",
         section: "Postagens",
         handler: () => {
           
@@ -472,26 +458,15 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/zh-cn/books/zh-cn/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "Novidades",},{id: "news-um-anúncio-simples-em-uma-linha",
+            },},{id: "news-um-anúncio-simples-em-uma-linha",
           title: 'Um anúncio simples em uma linha.',
           description: "",
-          section: "Novidades",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "Novidades",handler: () => {
-              window.location.href = "/zh-cn/news/en-us/announcement_2/";
-            },},{id: "news-um-anúncio-longo-com-detalhes",
+          section: "Novidades",},{id: "news-um-anúncio-longo-com-detalhes",
           title: 'Um anúncio longo com detalhes',
           description: "",
           section: "Novidades",handler: () => {
-              window.location.href = "/zh-cn/news/pt-br/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "Novidades",},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
+              window.location.href = "/zh-cn/news/zh-cn/announcement_2/";
+            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "Novidades",},{id: "projects-project-7",
@@ -509,36 +484,36 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projetos",handler: () => {
               window.location.href = "/zh-cn/projects/9_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-projeto-1",
+          title: 'projeto 1',
+          description: "com imagem de fundo",
           section: "Projetos",handler: () => {
-              window.location.href = "/zh-cn/projects/en-us/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/zh-cn/projects/zh-cn/1_project/";
+            },},{id: "projects-projeto-2",
+          title: 'projeto 2',
+          description: "um projeto com imagem de fundo e comentários do giscus",
           section: "Projetos",handler: () => {
-              window.location.href = "/zh-cn/projects/en-us/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/zh-cn/projects/zh-cn/2_project/";
+            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
+          title: 'projeto 3 com um nome bem longo',
+          description: "um projeto que redireciona pra outro website",
           section: "Projetos",handler: () => {
-              window.location.href = "/zh-cn/projects/en-us/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/zh-cn/projects/zh-cn/3_project/";
+            },},{id: "projects-projeto-4",
+          title: 'projeto 4',
+          description: "outro sem imagem",
           section: "Projetos",handler: () => {
-              window.location.href = "/zh-cn/projects/en-us/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/zh-cn/projects/zh-cn/4_project/";
+            },},{id: "projects-projeto-5",
+          title: 'projeto 5',
+          description: "um projeto com imagem de fundo",
           section: "Projetos",handler: () => {
-              window.location.href = "/zh-cn/projects/en-us/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/zh-cn/projects/zh-cn/5_project/";
+            },},{id: "projects-projeto-6",
+          title: 'projeto 6',
+          description: "um projeto sem imagem",
           section: "Projetos",handler: () => {
-              window.location.href = "/zh-cn/projects/en-us/6_project/";
+              window.location.href = "/zh-cn/projects/zh-cn/6_project/";
             },},{
         id: 'social-email',
         title: 'Enviar um email',
