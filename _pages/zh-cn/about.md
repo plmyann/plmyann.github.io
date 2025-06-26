@@ -7,7 +7,7 @@ subtitle: <a href='#'><i>判天地之美，析万物之理<i></a>
 
 profile:
   align: right
-  image: lab_logo2.jpeg
+  image: lab_logo2.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 seu telefone do trabalho</p>
