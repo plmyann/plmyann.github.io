@@ -3,17 +3,17 @@ page_id: about
 layout: about
 title: 简介
 permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+subtitle: <a href='#'><i>判天地之美，析万物之理<i></a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lab_logo2.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 seu telefone do trabalho</p>
-    <p>123 seu endereço</p>
-    <p>Sua cidade, estado 12345</p>
-
+  # more_info: >
+  #   <p>555 seu telefone do trabalho</p>
+  #   <p>123 seu endereço</p>
+  #   <p>Sua cidade, estado 12345</p>
+# 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"

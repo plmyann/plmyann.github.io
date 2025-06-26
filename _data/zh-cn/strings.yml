@@ -1,164 +1,164 @@
 archive:
-  prefix: um arquivo de
-  category_suffix: desta categoria
-  tag_suffix: com este marcador
-  year_suffix: deste ano
+  prefix: 关于
+  category_suffix: 此目录下
+  tag_suffix: 此标签下
+  year_suffix: 起始年
 bibliography:
-  abstract: Abs
-  awarded: Premiado
-  blog: Blog
-  book_prefix: Em
-  code: Código
-  last_author_prefix: e
-  poster: Poster
+  abstract: 摘要
+  awarded: 获奖
+  blog: 观点
+  book_prefix: 在
+  code: 代码
+  last_author_prefix: 与
+  poster: 海报
   slides: Slides
-  supp: Supl
-  video: Vídeo
-  website: Site
+  supp: 补充
+  video: 视频
+  website: 网站
 blog:
-  navigation_title: blog
+  navigation_title: 文摘
 categories:
-  fun: diversão
-  work: trabalho
+  fun: 休闲
+  work: 工作
 citation:
-  bibtex: "ou como uma citação em BibTeX:"
-  introduction: "Se você achou isso útil, por favor cite como:"
+  bibtex: "或另存为BibTeX:"
+  introduction: "引用:"
 collections:
-  books: livros
-  posts: postagens
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+  books: 书籍
+  posts: 文章
+contact_note: 欢迎通过电子邮件联系！
 cv:
-  address: Endereço
-  area: Área
-  awarder: Premiado por
-  awards: Prêmios
-  basics: Informações gerais
-  certificates: Certificados
-  city: Cidade
-  countryCode: Código do país
-  courses: Cursos
-  date: Data
-  education: Educação
-  email: Email
-  endDate: Data de término
-  fluency: Fluência
-  highlights: Destaques
-  image: Imagem
-  institution: Instituição
-  interests: Interesses
-  issuer: Emissor
-  keywords: Palavras chave
-  label: Título
-  language: Idioma
-  languages: Idiomas
-  level: Nível
-  location: Localização
-  name: Nome
-  network: Rede
-  organization: Organização
-  phone: Telefone
-  position: Posição
-  postalCode: Código postal
-  present: Presente
-  profiles: Perfis
-  projects: Projetos
-  publications: Publicações
-  publisher: Editora
-  reference: Referência
-  references: Referências
-  region: Região
-  releaseDate: Data de lançamento
-  score: Pontuação
-  skills: Habilidades
-  startDate: Data de início
-  studyType: Tipo de estudo
-  summary: Resumo
-  table_of_contents: Tópicos
-  title: Título
+  address: 地址 
+  area: 地区 
+  awarder: 颁奖单位 
+  awards: 奖
+  basics: 基本信息 
+  certificates: 证书
+  city: 城市
+  countryCode: 国家
+  courses: 课程
+  date: 数据
+  education: 教育
+  email: 邮箱
+  endDate: 结束日期
+  fluency: 熟悉度
+  highlights: 重点
+  image: 图片
+  institution: 单位
+  interests: 兴趣
+  issuer: 签发单位
+  keywords: 关键词
+  label: 标签
+  language: 语言
+  languages: 语言
+  level: 级别
+  location: 定位
+  name: 姓名
+  network: 网络
+  organization: 组织
+  phone: 电话
+  position: 职位
+  postalCode: 邮编
+  present: 今
+  profiles: 主页
+  projects: 项目
+  publications: 发表
+  publisher: 发表方
+  reference: 参考文献
+  references: 参考文献
+  region: 区域
+  releaseDate: 发表日期
+  score: 成绩
+  skills: 技能
+  startDate: 开始日期
+  studyType: 学习类型
+  summary: 总结
+  table_of_contents: 目录
+  title: 标题
   url: Url
-  username: Usuário
-  volunteer: Voluntário
-  work: Trabalho
+  username: 用户名
+  volunteer: 志愿
+  work: 工作
 footer:
-  copyright: Direitos autorais
-  last_updated: "Última atualização:"
+  copyright: 版权所有
+  last_updated: "最近更新:"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: últimas postagens
+  基于 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>，
+  由 <a href="https://pages.github.com/" target="_blank">GitHub Pages 托管</a>.
+ # Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+latest_posts: 最新动态
 months:
   long:
-    january: Janeiro
-    february: Fevereiro
-    march: Março
-    april: Abril
-    may: Maio
-    june: Junho
-    july: Julho
-    august: Agosto
-    september: Setembro
-    october: Outubro
-    november: Novembro
-    december: Dezembro
+    january: 一月
+    february: 二月
+    march: 三月
+    april: 四月
+    may: 五月
+    june: 六月
+    july: 七月
+    august: 八月
+    september: 九月
+    october: 十月
+    november: 十一月
+    december: 十二月
   short:
-    january: Jan
-    february: Fev
-    march: Mar
-    april: Abr
-    may: Mai
-    june: Jun
-    july: Jul
-    august: Ago
-    september: Set
-    october: Out
-    november: Nov
-    december: Dez
-news: novidades
+    january: 一月
+    february: 二月
+    march: 三月
+    april: 四月
+    may: 五月
+    june: 六月
+    july: 七月
+    august: 八月
+    september: 九月
+    october: 十月
+    november: 十一月
+    december: 十二月
+news: 新闻
 newsletter:
-  back: Voltar
-  error: "Oops! Algo deu errado, por favor tente novamente."
-  subscribe: inscrever-se
-  subscribed: "Você se inscreveu com sucesso na newsletter."
-  subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
-  too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
-  wait: "Por favor, aguarde..."
-no_news: Nenhuma novidade no momento...
-no_posts: "Nenhuma postagem até agora..."
+  back: 后退
+  error: "错误，请重试！"
+  subscribe: 订阅
+  subscribed: "已成功订阅！"
+  subscribe_to_receive: "订阅实验室动态:"
+  too_many_signups: "操作频繁请稍后重试！"
+  wait: "请稍等..."
+no_news: 无新闻...
+no_posts: "无动态..."
 pagination:
-  page: página
+  page: 页面
 post:
-  created_in: Criado em
-  created_by: por
-  last_updated: última atualização em
-references: Referências
+  created_in: 创作于
+  created_by: 由
+  last_updated: 最近更新
+references: 参考文献
 related_posts:
-  description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
-  title: Gostou de Ler este Artigo?
+  description: "可能感兴趣的文章:"
+  title: 喜欢这篇文章吗?
 search:
   dark_theme:
-    description: Muda o tema do site para escuro
-    title: Muda o tema para escuro
-  dropdown: Outras opções
-  email: Enviar um email
+    description: 夜间模式
+    title:  夜间模式
+  dropdown: 下拉
+  email: 邮箱
   footer:
-    close: para fechar
-    navigate: para navegar
-    parent: voltar um nível
-    select: para selecionar
-  languages: Idiomas
+    close: 关闭
+    navigate: 至导航栏
+    parent: 前移
+    select: 选择
+  languages: 语言
   light_theme:
-    description: Muda o tema do site para claro
-    title: Muda o tema para claro
-  navigation: Menu de navegação
-  news: Novidades
-  placeholder: Digite para iniciar a busca
-  posts: Postagens
-  projects: Projetos
-  socials: Redes sociais
+    description: 日间模式
+    title: 日间模式
+  navigation: 导航栏
+  news: 新闻
+  placeholder: 点击搜索
+  posts: 动态
+  projects: 项目
+  socials: 社交
   system_theme:
-    description: Muda o tema do site para o padrão do sistema
-    title: Usa o tema padrão do sistema
-  theme: Tema
-selected_publications: publicações selecionadas
-site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
+    description: 系统模式（默认）
+    title: 系统模式（默认）
+  theme: 主题
+selected_publications: 选择发表文章
+site_description: Zhang Integrative Ecology Lab at Nanjing University
