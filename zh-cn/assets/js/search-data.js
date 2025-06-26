@@ -16,93 +16,93 @@ const ninja = document.querySelector('ninja-keys');
 ninja.data = [{
     id: "nav-简介",
     title: "简介",
-    section: "Menu de navegação",
+    section: "导航栏",
     handler: () => {
       window.location.href = "/zh-cn/";
     },
   },{id: "nav-团队",
           title: "团队",
           description: "membros do grupo de pesquisa ou laboratório",
-          section: "Menu de navegação",
+          section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/team/";
           },
         },{id: "nav-新闻",
           title: "新闻",
           description: "",
-          section: "Menu de navegação",
+          section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/news/";
           },
         },{id: "nav-发表",
           title: "发表",
           description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
-          section: "Menu de navegação",
+          section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/publications/";
           },
         },{id: "nav-文摘",
           title: "文摘",
           description: "um tema simples para acadêmicos",
-          section: "Menu de navegação",
+          section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/blog/";
           },
         },{id: "nav-机会",
           title: "机会",
           description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
-          section: "Menu de navegação",
+          section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/opportunities/";
           },
         },{id: "nav-联系",
           title: "联系",
           description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
-          section: "Menu de navegação",
+          section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/contact/";
           },
         },{id: "news-um-anúncio-simples-em-uma-linha",
           title: 'Um anúncio simples em uma linha.',
           description: "",
-          section: "Novidades",},{id: "news-um-anúncio-longo-com-detalhes",
+          section: "新闻",},{id: "news-um-anúncio-longo-com-detalhes",
           title: 'Um anúncio longo com detalhes',
           description: "",
-          section: "Novidades",handler: () => {
+          section: "新闻",handler: () => {
               window.location.href = "/zh-cn/news/zh-cn/announcement_2/";
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "Novidades",},{
+          section: "新闻",},{
           id: 'lang-en-uk',
           title: 'en-uk',
-          section: 'Idiomas',
+          section: '语言',
           handler: () => {
             window.location.href = "" + updatedUrl;
           },
         },{
       id: 'light-theme',
-      title: 'Muda o tema para claro',
-      description: 'Muda o tema do site para claro',
-      section: 'Tema',
+      title: '日间模式',
+      description: '日间模式',
+      section: '主题',
       handler: () => {
         setThemeSetting("light");
       },
     },
     {
       id: 'dark-theme',
-      title: 'Muda o tema para escuro',
-      description: 'Muda o tema do site para escuro',
-      section: 'Tema',
+      title: '夜间模式',
+      description: '夜间模式',
+      section: '主题',
       handler: () => {
         setThemeSetting("dark");
       },
     },
     {
       id: 'system-theme',
-      title: 'Usa o tema padrão do sistema',
-      description: 'Muda o tema do site para o padrão do sistema',
-      section: 'Tema',
+      title: '系统模式（默认）',
+      description: '系统模式（默认）',
+      section: '主题',
       handler: () => {
         setThemeSetting("system");
       },
