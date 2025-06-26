@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: 简介
 permalink: /
-subtitle: <a><i>判天地之美，析万物之理<i></a>
+subtitle: <a href='#'><i>判天地之美，析万物之理<i></a>
 
 profile:
   align: right

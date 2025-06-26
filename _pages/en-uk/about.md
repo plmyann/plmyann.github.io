@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <a><em>To Appreciate the universe’s beauty and illuminate the truths underlying.<em></a>
+subtitle: <a href='#'><em>To Appreciate the universe’s beauty and illuminate the truths underlying.<em></a>
 
 profile:
   align: right
@@ -32,14 +32,14 @@ Welcome to the [**Ziel Lab** (Zhang Integrative Ecology Lab)](/)—where passion
 
 <ins>Our work focuses on three interconnected areas:</ins>
 
-**Biodiversity Science**
+[**Biodiversity Science**]()
 
 We explore changes of biodiversity patterns and the underlying mechanisms to provide the evidence base for conservation under global change. This ranges from processes influencing our estimation on biodiveristy dynamics, to causal infereneces to biodiversity change, expecially when multiple factors are related to the change.
 
-**Movement Ecology and Connectivity Conservation**
+[**Movement Ecology and Connectivity Conservation**]()
 
 We track animal migrations using GPS and satellite technology to understand their journeys and safeguard their habitats. From shorebirds to insects, we follow nature’s travelers.
 
-**Human-nature interactions**
+[**Human-nature interactions**]()
 
 We build data-driven models to predict how ecosystems respond to environmental changes like deforestation or climate shifts. Our models guide conservationists and policymakers toward impactful decisions.
