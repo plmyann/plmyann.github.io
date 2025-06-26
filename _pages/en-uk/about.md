@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'><i>To Appreciate the universe’s beauty and illuminate the truths underlying.<i></a>
+subtitle: <a><em>To Appreciate the universe’s beauty and illuminate the truths underlying.<em></a>
 
 profile:
   align: right
@@ -28,8 +28,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the [**Ziel Lab** (Zhang Integrative Ecology Lab)](/)—where passion for ecology meets scientific discovery. With zeal and precision, we’re a team of curious explorers who study ecosystems to understand and protect the natural world, working toward a sustainable future.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+<ins>Our work focuses on three interconnected areas:</ins>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Biodiversity Science**
+
+We explore changes of biodiversity patterns and the underlying mechanisms to provide the evidence base for conservation under global change. This ranges from processes influencing our estimation on biodiveristy dynamics, to causal infereneces to biodiversity change, expecially when multiple factors are related to the change.
+
+**Movement Ecology and Connectivity Conservation**
+
+We track animal migrations using GPS and satellite technology to understand their journeys and safeguard their habitats. From shorebirds to insects, we follow nature’s travelers.
+
+**Human-nature interactions**
+
+We build data-driven models to predict how ecosystems respond to environmental changes like deforestation or climate shifts. Our models guide conservationists and policymakers toward impactful decisions.

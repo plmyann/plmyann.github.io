@@ -83,8 +83,8 @@ footer:
   copyright: 版权所有
   last_updated: "最近更新:"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  基于<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>，
-  由<a href="https://pages.github.com/" target="_blank">GitHub Pages托管</a>。
+  基于<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>,
+  由<a href="https://pages.github.com/" target="_blank">GitHub Pages托管</a>.
  # Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 latest_posts: 最新动态
 months:
