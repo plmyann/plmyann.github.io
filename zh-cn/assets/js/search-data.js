@@ -27,26 +27,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zh-cn/team/";
           },
-        },{id: "nav-新闻",
-          title: "新闻",
-          description: "",
-          section: "导航栏",
-          handler: () => {
-            window.location.href = "/zh-cn/news/";
-          },
         },{id: "nav-发表",
           title: "发表",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
+          description: "按年份倒序，*为通讯作者",
           section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/publications/";
-          },
-        },{id: "nav-文摘",
-          title: "文摘",
-          description: "um tema simples para acadêmicos",
-          section: "导航栏",
-          handler: () => {
-            window.location.href = "/zh-cn/blog/";
           },
         },{id: "nav-机会",
           title: "机会",

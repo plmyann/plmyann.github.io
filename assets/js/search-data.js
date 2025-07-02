@@ -22,17 +22,10 @@ ninja.data = [{
     },
   },{id: "nav-team",
           title: "Team",
-          description: "members of the lab",
+          description: "Members of the lab",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/team/";
-          },
-        },{id: "nav-news",
-          title: "News",
-          description: "",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -40,13 +33,6 @@ ninja.data = [{
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "a simple whitespace theme for academics",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/blog/";
           },
         },{id: "nav-opportunities",
           title: "Opportunities",
