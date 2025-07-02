@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-团队",
           title: "团队",
-          description: "membros do grupo de pesquisa ou laboratório",
+          description: "实验室成员",
           section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/team/";
