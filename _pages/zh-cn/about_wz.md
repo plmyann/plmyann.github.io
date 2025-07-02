@@ -1,5 +1,5 @@
 __简介__：实验室导师为南京大学生命科学学院准聘助理教授张文远，是一名跨学科、以问题为导向的保护生物学家，在麦吉尔大学、牛津大学和清华大学完成了生态学、鸟类学和保护生物学的科研训练。致力于理解生物多样性的变化模式和动态，以及不同的过程和机制如何影响对其理解，通过建模和实证研究，以提高监测和估计生物多样性变化的能力。根据野生动物追踪数据和实验室实验，研究如何将运动行为转化为长期的种群持久性。感兴趣加入实验室的学生和博后，也请查看**[机会](/opportunities/)**页面。
 
-__研究生涯__：加入南京大学之前，我在加拿大麦吉尔大学生物系的[魁北克生物多样性研究中心](https://qcbs.ca)与[Andy Gonzalez教授](https://www.thegonzalezlab.org/about-andrew-gonzalez)和[Laura Pollock博士](https://qbiodiversity.org/about/)进行博后研究。我的博后研究集中于两个方面：理论运动生态学（理解生物运动的模式与因果机制及其与种群动态的关系）和连通度保护规划（开发保护工具以维护生态连通度以促进全球变化下的生物运动） 
+__研究生涯__：加入南京大学之前，我在加拿大麦吉尔大学生物系的[魁北克生物多样性研究中心](https://qcbs.ca)与[Andy Gonzalez教授](https://www.thegonzalezlab.org/about-andrew-gonzalez)和[Laura Pollock博士](https://qbiodiversity.org/about/)进行博后研究。我的博后工作集中于两个方面：理论运动生态学（理解生物运动的模式与因果机制及其与种群动态的关系）和连通度保护规划（开发保护工具以维护生态连通度以促进全球变化下的生物运动） 
 
 我在 [Ben Sheldon教授](https://www.biology.ox.ac.uk/people/ben-sheldon)， [Rich Grenyer教授](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-richard-grenyer/)和[Kevin Gaston教授](http://kevingaston.com/biography/)的指导下在牛津大学动物学系（现为生物系）进行博士学习。研究内容为从不同尺度研究影响生物多样性评估与保护的过程和机制。我2018年从清华大学[地球系统科学系](https://www.dess.tsinghua.edu.cn)硕士毕业，在[司亚丽博士](https://www.universiteitleiden.nl/en/staffmembers/yali-si)的指导下研究迁徙鸟类的物种分布。
