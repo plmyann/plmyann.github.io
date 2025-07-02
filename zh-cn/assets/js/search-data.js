@@ -36,7 +36,7 @@ ninja.data = [{
           },
         },{id: "nav-机会",
           title: "机会",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
+          description: "欢迎加入我们！",
           section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/opportunities/";
