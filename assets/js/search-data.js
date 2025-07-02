@@ -46,7 +46,7 @@ ninja.data = [{
           description: "Feel free to contact us.",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/contacts/";
+            window.location.href = "/contact/";
           },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
