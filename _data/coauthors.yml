@@ -1,34 +1,33 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"sheldon":
+  - firstname: ["Ben", "Ben C.", "B. C."]
+    url: https://www.biology.ox.ac.uk/people/ben-sheldon
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"gaston":
+  - firstname: ["Kevin", "K.", "Kevin J.", "K. J."]
+    url: http://kevingaston.com/biography/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"grenyer":
+  - firstname: ["Richard", "Rich"]
+    url: https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-richard-grenyer/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"wang":
+  - firstname: ["Daiping"]
+    url: http://english.ioz.cas.cn/sourcedb/scs/202310/t20231030_431094.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"huang":
+  - firstname: ["Xiao"]
+    url: https://ecology.hainanu.edu.cn/info/1102/3670.htm
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"si":
+  - firstname: ["Yali"]
+    url: https://www.universiteitleiden.nl/en/staffmembers/yali-si
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"xu":
+  - firstname: ["Yanjie"]
+    url: https://yanjie-xu.github.io
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"gong":
+  - firstname: ["Peng"]
+    url: https://www.earthsciences.hku.hk/people/academic_staff/3/?back=af3a6f1ace1fc32210286eb66ab8ef53
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+
