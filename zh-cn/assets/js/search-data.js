@@ -14,8 +14,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-简介",
-    title: "简介",
+    id: "nav-首页",
+    title: "首页",
     section: "导航栏",
     handler: () => {
       window.location.href = "/zh-cn/";
