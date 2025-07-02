@@ -1,7 +1,7 @@
 ---
 page_id: cv
 layout: cv
-permalink: /contacts/
+permalink: /contact/
 title: Contacts
 nav: true
 nav_order: 6
