@@ -15,7 +15,7 @@ profiles:
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>School of life science, Nanjing University (Xianlin Campus)</p>
+      <p>Nanjing, Jiangsu Province, China</p>
+      <p>Email: wzhang.ecoevo[at]gmail.com</p>
 ---

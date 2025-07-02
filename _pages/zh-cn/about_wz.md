@@ -1,11 +1,3 @@
-__[生物多样性科学](/)__
+实验室导师为南京大学生命科学学院准聘助理教授张文远。 I am an interdisciplinary, problem-oriented conservation biologist, trained in ecology, ornithology, conservation biology from McGill, Oxford and Tsinghua Universities. I strive to understand how social-ecological systems can be transformed to be both better and wilder (‘better’ including considerations of justice). Towards this end, I do modeling and empirical research to improve the management and governance of social-ecological systems. I have worked on ecosystem services for years (while recognizing and working on the concept’s limitations), including cumulative impacts. Now my work is focused on understanding the opportunities for bold positive change, socially and ecologically (with themes of rewilding, transformative change, relationality, and values). If you’re a prospective student, please also see my IRES page.
 
-实验室致力于量化生物多样性格局的变化、揭露其潜在机制并对其进行因果推断，包括如何正确评估生物多样性动态，如采样与监测系统设计，特殊时空波动对评估整体变化趋势的作用、全球变化对生态网络动态的影响等。
-
-__[运动生态学与连通度保护](/)__
-
-实验室运用卫星追踪（鸟类与哺乳动物）与实验室观测（以跳蠹为研究对象）理解生物运动，并从生态连通度的角度探究生物运动行为对为长期的种群维护，为生物多样性保护提供更有效的保护策略。
-
-__[人与自然交互]__
-
-实验室利用[个性化生态学](https://doi.org/10.1016/j.tree.2018.09.012)理论（即研究人与自然之间的直接与差异性互动）对人与自然之间不同的交互作用建模，探究不同的人类文化如何影响我们与自然之间差异性互动，并研究这些差异性的交互如何影响我们对生物多样性变化的判断和保护。
+__History__: Before Nanjing University, I was a postdoctoral fellow with [Andy Gonzalez](https://www.thegonzalezlab.org/about-andrew-gonzalez) and [Laura Pollock](https://qbiodiversity.org/about/) at the Quebec Centre for Biodiversity Science([QCBS](https://qcbs.ca)) at the Department of Biology at McGill University. My research there had two major components: theoretical movement ecology (understanding the causes, patterns and mechnisms of organismal movements and their relationship with populaltion dynamics) and connectivity conservation planning (the design of conservation tools to facilitate movement under global change). I was a DPhil student under the supervision of [Ben Sheldon](https://www.biology.ox.ac.uk/people/ben-sheldon), [Rich Grenyer](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-richard-grenyer/) and [Kevin Gaston](http://kevingaston.com/biography/) at [the Department of Biology](https://www.biology.ox.ac.uk/home) of the University of Oxford, where I studied the processes that influence our estimation and understanding of biodiversity, and investigated their implications for conservation from multiple scales. In 2018, I graduated from [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/en/) at Tsinghua University with a MSc degree in Ecology, specialising in species distribution of migratory birds under the supervision of [Yali Si](https://www.universiteitleiden.nl/en/staffmembers/yali-si).

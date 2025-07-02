@@ -30,7 +30,7 @@ latest_posts:
 
 Welcome to the **[Ziel Lab (Zhang Integrative Ecology Lab)](/)**—where passion for ecology meets scientific discovery. With zeal and precision, we’re a team of curious explorers who study ecosystems to understand and protect the natural world, working toward a sustainable future.
 
-<ins>Our work focuses on three interconnected areas:</ins>
+[<ins>Our work focuses on three interconnected areas:</ins>](/)
 
 **[Biodiversity Science](/)**
 

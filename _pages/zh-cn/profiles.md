@@ -3,7 +3,7 @@ page_id: profiles
 layout: profiles
 permalink: /team/
 title: 团队
-description: membros do grupo de pesquisa ou laboratório
+description: 实验室成员
 nav: true
 nav_order: 1
 
@@ -11,11 +11,11 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: prof_pic2.jpg
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 seu telefone do trabalho</p>
-      <p>123 seu endereço</p>
-      <p>Sua cidade, estado 12345</p>
+      <p>地址：中国江苏省南京市栖霞区</p>
+      <p>     南京大学仙林校区生物科学学院</p>
+      <p>邮箱： wzhang.ecoevo[at]gmail.com</p>
 ---
