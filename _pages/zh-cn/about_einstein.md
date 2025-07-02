@@ -1,5 +1,11 @@
-Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
+__[生物多样性科学](/)__
 
-Coloque seu endereço / caixa postal / outras informações logo abaixo da sua foto. Você também pode desabilitar qualquer um desses elementos editando a propriedade `profile` do cabeçalho YAML do seu `_pages/about.md`. Edite `_bibliography/papers.bib` e o Jekyll renderizará sua [página de publicações](/multi-language-al-folio/publications/) automaticamente.
+实验室致力于量化生物多样性格局的变化、揭露其潜在机制并对其进行因果推断，包括如何正确评估生物多样性动态，如采样与监测系统设计，特殊时空波动对评估整体变化趋势的作用、全球变化对生态网络动态的影响等。
 
-Adicione links para seus perfis de mídias sociais também. Este tema está configurado para usar [Font Awesome icons](https://fontawesome.com/) e [Academicons](https://jpswalsh.github.io/academicons/), como os visto abaixo. Adicione seu Facebook, Twitter, LinkedIn, Google Scholar ou simplesmente desative todos eles.
+__[运动生态学与连通度保护](/)__
+
+实验室运用卫星追踪（鸟类与哺乳动物）与实验室观测（以跳蠹为研究对象）理解生物运动，并从生态连通度的角度探究生物运动行为对为长期的种群维护，为生物多样性保护提供更有效的保护策略。
+
+__[人与自然交互]__
+
+实验室利用[个性化生态学](https://doi.org/10.1016/j.tree.2018.09.012)理论（即研究人与自然之间的直接与差异性互动）对人与自然之间不同的交互作用建模，探究不同的人类文化如何影响我们与自然之间差异性互动，并研究这些差异性的交互如何影响我们对生物多样性变化的判断和保护。
