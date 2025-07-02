@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      <span class="font-weight-bold"></span>
+    </h1>
+    <p class="desc"></p>
+  </header>
+  <article>
+    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      {% if section.settings.image_1 != blank %}
+        {{ section.settings.image_1 | image_url: width: section.settings.image_1.width, height: section.settings.image_1.height | image_tag: class: 'img-fluid z-depth-1 rounded', alt: section.settings.image_1.alt, loading: 'lazy' }}
+      {% endif %}
+      {% if section.settings.content_1 != blank %}
+        <div class="address">{{ section.settings.content_1 }}</div>
+      {% endif %}
+    </div>
+    {% if section.settings.content_2 != blank %}
+      <div class="clearfix">{{ section.settings.content_2 }}</div>
+    {% endif %}
+    <div class="social">
+      {% if section.settings.content_3 != blank %}
+        <div class="contact-icons">{{ section.settings.content_3 }}</div>
+      {% endif %}
+      {% if section.settings.content_4 != blank %}
+        <div class="contact-note">{{ section.settings.content_4 }}</div>
+      {% endif %}
+    </div>
+  </article>
+</div>
