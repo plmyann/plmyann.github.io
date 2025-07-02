@@ -5,7 +5,7 @@ permalink: /blog/
 title: Blog
 blog_name: al-folio in english
 description: a simple whitespace theme for academics
-nav: true
+nav: false
 nav_order: 4
 pagination:
   enabled: true

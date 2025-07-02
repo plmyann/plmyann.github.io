@@ -2,7 +2,7 @@
 page_id: news
 layout: page
 title: News
-nav: true
+nav: false
 permalink: /news/
 nav_order: 2
 ---
