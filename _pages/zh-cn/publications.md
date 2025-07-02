@@ -2,7 +2,7 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: 发表
+title: 发表情况
 description: 按年份倒序，*为通讯作者
 nav: true
 nav_order: 3
