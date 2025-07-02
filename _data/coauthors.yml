@@ -1,33 +1,3 @@
-"sheldon":
-  - firstname: ["Ben", "Ben C.", "B. C."]
-    url: https://www.biology.ox.ac.uk/people/ben-sheldon
-
-"gaston":
-  - firstname: ["Kevin", "K.", "Kevin J.", "K. J."]
-    url: http://kevingaston.com/biography/
-
-"grenyer":
-  - firstname: ["Richard", "Rich"]
-    url: https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-richard-grenyer/
-
-"wang":
-  - firstname: ["Daiping"]
-    url: http://english.ioz.cas.cn/sourcedb/scs/202310/t20231030_431094.html
-
-"huang":
-  - firstname: ["Xiao"]
-    url: https://ecology.hainanu.edu.cn/info/1102/3670.htm
-
-"si":
-  - firstname: ["Yali"]
-    url: https://www.universiteitleiden.nl/en/staffmembers/yali-si
-
-"xu":
-  - firstname: ["Yanjie"]
-    url: https://yanjie-xu.github.io
-
-"gong":
-  - firstname: ["Peng"]
-    url: https://www.earthsciences.hku.hk/people/academic_staff/3/?back=af3a6f1ace1fc32210286eb66ab8ef53
-
-
+"zhang":
+  - firstname: ["Wenyuan","W"]
+    url: https://wenyuanzhang.com
