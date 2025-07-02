@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to **[ZIEL (the Zhang Integrative Ecology Lab)](/)**—where interests of ecology meets scientific discovery. With zeal and precision, we are a team of curious explorers who study ecosystems to understand and protect the natural world, working toward a sustainable future.
+Welcome to **[ZIEL (the Zhang Integrative Ecology Lab)](/)**—where interests of ecology meets scientific discovery. With zeal and precision, we are a team of curious explorers who study ecosystems to understand and protect the natural world, working towards a sustainable future.
 
 [<ins>Our work focuses on three interconnected areas:</ins>](/)
 
