@@ -27,8 +27,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zh-cn/team/";
           },
-        },{id: "nav-发表",
-          title: "发表",
+        },{id: "nav-发表情况",
+          title: "发表情况",
           description: "按年份倒序，*为通讯作者",
           section: "导航栏",
           handler: () => {
