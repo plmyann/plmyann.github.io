@@ -15,7 +15,7 @@ profiles:
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>地址：中国江苏省南京市栖霞区</p>
-      <p>     南京大学仙林校区生物科学学院</p>
-      <p>邮箱： wzhang.ecoevo[at]gmail.com</p>
+      <p>中国江苏省南京市栖霞区</p>
+      <p>南京大学仙林校区生物科学学院</p>
+      <p>邮箱：wzhang.ecoevo[at]gmail.com </p>
 ---
