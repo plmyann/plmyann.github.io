@@ -12,8 +12,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: og.jpg
-    content: opportunities.md
+    content: opportunities_content.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-    
+    more_info:
 ---

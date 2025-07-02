@@ -38,10 +38,11 @@ We explore changes of biodiversity patterns and the underlying mechanisms to pro
 
 **[Movement Ecology and Connectivity Conservation](/)**
 
-We track animal movements using satellite tracking technology and lab environments of springtail (*Collembola*) to understand their movement journeys and investigate how to translate movement behaviours into long-term population persistence. This allow for incorporating more movement behaviours into connectivity conservation and providing moe effective and efficient conservation strategies.
+We track animal movements using satellite tracking technology and lab environments of springtail (*Collembola*) to understand their movement journeys and investigate how to translate movement behaviours into long-term population persistence. This allows for incorporating more movement behaviours into connectivity conservation and providing more effective and efficient conservation strategies.
 
 **[Human-nature interactions](/)**
 
-We model different interactions between people and nature from the perspective of [personalised ecology](https://doi.org/10.1016/j.tree.2018.09.012), i.e., the investigation of the direct interactions between individual people and nature and their ecological dimensions. We are interested in how human cultures can influence our unique and personalised interactions with nature and how those interactions can influence our understandoing of nature and conservation outcomes in return.
+We model different interactions between people and nature from the perspective of [personalised ecology](https://doi.org/10.1016/j.tree.2018.09.012), i.e., the investigation of the direct interactions between individual people and nature and their ecological dimensions. We are interested comprehending in how human cultures can influence our unique and personalised interactions with nature and how those interactions can influence our understanding of nature and conservation outcomes in return.
 
 
+[ ](/)
