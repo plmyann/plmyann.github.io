@@ -43,7 +43,7 @@ ninja.data = [{
           },
         },{id: "nav-联系",
           title: "联系",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          description: "欢迎联系！",
           section: "导航栏",
           handler: () => {
             window.location.href = "/zh-cn/contact/";
