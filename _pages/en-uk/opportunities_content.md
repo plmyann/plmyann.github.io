@@ -12,4 +12,4 @@ I am recruiting two postdocs on (a) __animal movements and connectivity science_
 
 __[Visitors]()__
 
-I actively welcome academic and non-academic visitors to __[ZIEL]()__, particularly for the purposes of conducting collaborative research with one or more members of the group. Proposals for short or extended visits, including sabbaticals, should be directed by [email](/contacts/).
+I actively welcome academic and non-academic visitors to __[ZIEL]()__, particularly for the purposes of conducting collaborative research with one or more members of the group. Proposals for short or extended visits, including sabbaticals, should be directed by [email](/contact/).
