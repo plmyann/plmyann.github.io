@@ -18,12 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -43,3 +43,5 @@ We track animal movements using satellite tracking technology and lab environmen
 **[Human-nature interactions](/)**
 
 We model different interactions between people and nature from the perspective of [personalised ecology](https://doi.org/10.1016/j.tree.2018.09.012), i.e., the investigation of the direct interactions between individual people and nature and their ecological dimensions. We are interested in how human cultures can influence our unique and personalised interactions with nature and how those interactions can influence our understandoing of nature and conservation outcomes in return.
+
+

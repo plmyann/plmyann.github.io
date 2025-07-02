@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: 简介
+title: 首页
 permalink: /
 subtitle: <a href='#'><i>判天地之美，析万物之理<i></a>
 
@@ -14,10 +14,20 @@ profile:
   #   <p>123 seu endereço</p>
   #   <p>Sua cidade, estado 12345</p>
 # 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+---
+
 ---
 __[生物多样性科学](/)__
 
@@ -25,9 +35,11 @@ __[生物多样性科学](/)__
 
 __[运动生态学与连通度保护](/)__
 
-实验室运用卫星追踪（鸟类与哺乳动物）与实验室观测（以跳蠹为研究对象）理解生物运动，并从生态连通度的角度探究生物运动行为对为长期的种群维护，为生物多样性保护提供更有效的保护策略。
+实验室运用卫星追踪（鸟类与哺乳动物）与实验室观测（以跳虫*Combella*为研究对象）理解生物运动，并从生态连通度的角度探究生物运动行为对为长期的种群维护，为生物多样性保护提供更有效的保护策略。
 
-__[人与自然交互]__
+__[人与自然交互](/)__
 
 实验室利用[个性化生态学](https://doi.org/10.1016/j.tree.2018.09.012)理论（即研究人与自然之间的直接与差异性互动）对人与自然之间不同的交互作用建模，探究不同的人类文化如何影响我们与自然之间差异性互动，并研究这些差异性的交互如何影响我们对生物多样性变化的判断和保护。
+
+
 
