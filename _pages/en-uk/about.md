@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the **[Ziel Lab (Zhang Integrative Ecology Lab)](/)**—where passion for ecology meets scientific discovery. With zeal and precision, we’re a team of curious explorers who study ecosystems to understand and protect the natural world, working toward a sustainable future.
+Welcome to the **[ZIEl Lab (Zhang Integrative Ecology Lab)](/)**—where passion for ecology meets scientific discovery. With zeal and precision, we’re a team of curious explorers who study ecosystems to understand and protect the natural world, working toward a sustainable future.
 
 [<ins>Our work focuses on three interconnected areas:</ins>](/)
 
@@ -45,4 +45,3 @@ We track animal movements using satellite tracking technology and lab environmen
 We model different interactions between people and nature from the perspective of [personalised ecology](https://doi.org/10.1016/j.tree.2018.09.012), i.e., the investigation of the direct interactions between individual people and nature and their ecological dimensions. We are interested comprehending in how human cultures can influence our unique and personalised interactions with nature and how those interactions can influence our understanding of nature and conservation outcomes in return.
 
 
-[ ](/)
