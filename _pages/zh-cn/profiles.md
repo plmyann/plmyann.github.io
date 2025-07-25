@@ -17,5 +17,5 @@ profiles:
     more_info: >
       <p>中国江苏省南京市栖霞区</p>
       <p>南京大学（仙林校区）生物科学学院</p>
-      <p>邮箱：wzhang.ecoevo[at]gmail.com </p>
+      <p>邮箱：wenyuan.zhang[at]nju.edu.cn </p>
 ---
