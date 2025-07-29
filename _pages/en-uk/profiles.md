@@ -17,5 +17,5 @@ profiles:
     more_info: >
       <p>School of life science, Nanjing University (Xianlin Campus)</p>
       <p>Nanjing, Jiangsu Province, China</p>
-      <p>Email: wenyuan.zhang[at]nju.edu.cn</p>
+      
 ---
