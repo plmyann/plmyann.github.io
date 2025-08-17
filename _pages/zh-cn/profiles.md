@@ -16,6 +16,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>中国江苏省南京市栖霞区</p>
-      <p>南京大学（仙林校区）生命科学学院</p>
+      <p>南京大学（仙林校区）生命科学学院 </p>
       
 ---
