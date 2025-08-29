@@ -4,3 +4,4 @@ __研究生涯__：加入南京大学之前，我在加拿大麦吉尔大学生�
 
 我在 [Ben Sheldon教授](https://www.biology.ox.ac.uk/people/ben-sheldon)， [Rich Grenyer教授](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-richard-grenyer/)和[Kevin Gaston教授](http://kevingaston.com/biography/)的指导下在牛津大学动物学系（现为[生物系](https://www.biology.ox.ac.uk/home)）进行博士学习。研究内容为从不同尺度探究影响生物多样性评估与保护的过程和机制。我2018年从清华大学[地球系统科学系](https://www.dess.tsinghua.edu.cn)硕士毕业，在[司亚丽博士](https://www.universiteitleiden.nl/en/staffmembers/yali-si)的指导下研究迁徙鸟类的物种分布。
 
+
