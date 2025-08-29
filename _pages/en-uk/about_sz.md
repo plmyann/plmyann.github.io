@@ -4,8 +4,8 @@ I am a master student of ZIEL supervised by Dr. Wenyuan Zhang. I am passionate a
 
 **Educational Background**
 
-2024 - Present: Pursuing Master of Biology and Pharmaceutical Science, School of Life Sciences, Nanjing University
+2024 - Present: Master student of Biology and Pharmaceutical Science, School of Life Sciences, Nanjing University
 
-2020 - 2024: School of Ecology and Environment, Yunnan University，Major in Ecology
+2020 - 2024: School of Ecology and Environment, Yunnan University，B.Sc. in Ecology
 
 **Hobbies**：Basketball, hiking
