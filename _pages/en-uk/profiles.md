@@ -16,6 +16,8 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Wenyuan Zhang</p>
+      <p>PI of ZIEL</p>
+
     
   - align: left
     image: prof_pic_sz.png
