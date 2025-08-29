@@ -15,7 +15,14 @@ profiles:
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>School of life science, Nanjing University (Xianlin Campus)</p>
-      <p>Nanjing, Jiangsu Province, China</p>
+      <p>Wenyuan Zhang</p>
+    
+  - align: right
+    image: prof_pic_sz.jpg
+    content: about_sz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Shuo Zhang</p>
+      <p>Email: shuo.zhang@smail.nju.edu.cn</p>
       
 ---

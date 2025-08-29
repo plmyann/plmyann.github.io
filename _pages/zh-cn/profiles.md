@@ -15,7 +15,15 @@ profiles:
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>中国江苏省南京市栖霞区</p>
-      <p>南京大学（仙林校区）生命科学学院 </p>
-      
+      <p>张文远 博士</p>
+      <p>整合生态学实验PI</p>
+  - align: right
+    image: prof_pic_sz.jpg
+    content: about_sz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>张硕</p>
+      <p>邮箱：shuo.zhang@smail.nju.edu.cn</p>
+  
+
 ---
