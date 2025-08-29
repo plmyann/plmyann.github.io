@@ -17,7 +17,7 @@ profiles:
     more_info: >
       <p>张文远 博士</p>
       <p>整合生态学实验PI</p>
-  - align: right
+  - align: left
     image: prof_pic_sz.jpg
     content: about_sz.md
     image_circular: false # crops the image to make it circular
