@@ -15,7 +15,7 @@ profiles:
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Wenyuan Zhang</p>
+      <p>Dr. Wenyuan Zhang</p>
       
       <p>PI of ZIEL</p>
 
@@ -25,7 +25,7 @@ profiles:
     content: about_sz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Shuo Zhang</p>
+      <p>Mr. Shuo Zhang</p>
       <p>Email: shuo.zhang@smail.nju.edu.cn</p>
       
 ---

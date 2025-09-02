@@ -22,7 +22,7 @@ profiles:
     content: about_sz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>张硕</p>
+      <p>张硕 硕士在读</p>
       <p>邮箱：shuo.zhang@smail.nju.edu.cn</p>
   
 
