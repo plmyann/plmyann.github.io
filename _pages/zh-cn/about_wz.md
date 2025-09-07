@@ -2,6 +2,6 @@ __简介__：实验室导师为南京大学生命科学学院准聘助理教授�
 
 __研究生涯__：加入南京大学之前，我在加拿大麦吉尔大学生物系的[魁北克生物多样性研究中心](https://qcbs.ca)与[Andy Gonzalez教授](https://www.thegonzalezlab.org/about-andrew-gonzalez)和[Laura Pollock博士](https://qbiodiversity.org/about/)进行博后研究。博后工作集中于两个方面：理论运动生态学（理解生物运动的模式与因果机制及其与种群动态的关系）和连通度保护规划（开发保护工具以维护生态连通度，促进全球变化下的生物运动）。
 
-我在 [Ben Sheldon教授](https://www.biology.ox.ac.uk/people/ben-sheldon)， [Rich Grenyer教授](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-richard-grenyer/)和[Kevin Gaston教授](http://kevingaston.com/biography/)的指导下在牛津大学动物学系（现为[生物系](https://www.biology.ox.ac.uk/home)）进行博士学习。研究内容为从不同尺度探究影响生物多样性评估与保护的过程和机制。我2018年从清华大学[地球系统科学系](https://www.dess.tsinghua.edu.cn)硕士毕业，在[司亚丽博士](https://www.universiteitleiden.nl/en/staffmembers/yali-si)的指导下研究迁徙鸟类的物种分布。
+我在 [Ben Sheldon教授](https://www.biology.ox.ac.uk/people/ben-sheldon)， [Rich Grenyer教授](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-richard-grenyer/)和[Kevin Gaston教授](http://kevingaston.com/biography/)的指导下在牛津大学动物学系（现[生物系](https://www.biology.ox.ac.uk/home)）进行博士学习，研究内容为从不同尺度探究影响生物多样性评估与保护的过程和机制。2018年我从清华大学[地球系统科学系](https://www.dess.tsinghua.edu.cn)生态学硕士毕业，在[司亚丽博士](https://www.universiteitleiden.nl/en/staffmembers/yali-si)的指导下研究迁徙鸟类的时空分布。
 
 

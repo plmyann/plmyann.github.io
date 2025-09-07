@@ -8,7 +8,7 @@ We are not wedded to any topic or idea but rather motivated by a zeal for both a
 
 __[Prospective Postdocs]()__ 
 
-We are recruiting two postdocs on (a) __animal movements and connectivity science__ and (b) __biodiversity dynamics__. Announcements will be coming soon, but if you are interested in them， please feel free to __[contact me](/contacts/)__.
+We are recruiting two postdocs on (a) __animal movements and connectivity science__ and (b) __biodiversity dynamics__. Announcements will be coming soon, but if you are interested in them, please feel free to __[contact me](/contacts/)__.
 
 __[Visitors]()__
 

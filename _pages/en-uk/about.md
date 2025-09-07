@@ -38,7 +38,7 @@ We explore changes of biodiversity patterns and the underlying mechanisms to pro
 
 **[Movement Ecology and Connectivity Conservation](/)**
 
-We track animal movements using satellite tracking technology and lab environments of springtail (*Collembola*) to understand their movement journeys and investigate how to translate movement behaviours into long-term population persistence. This allows for incorporating more movement behaviours into connectivity conservation and providing more effective and efficient conservation strategies.
+We track animal movements using satellite tracking technology for birds and mammals and lab environments of springtail (*Collembola*) to understand their movement journeys and investigate how to translate movement behaviours into long-term population persistence. This allows for incorporating more movement behaviours into connectivity conservation and providing more effective and efficient conservation strategies.
 
 **[Human-nature interactions](/)**
 
