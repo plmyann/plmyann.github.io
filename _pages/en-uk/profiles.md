@@ -27,5 +27,29 @@ profiles:
     more_info: >
       <p>Mr. Shuo Zhang</p>
       <p>Email: shuo.zhang@smail.nju.edu.cn</p>
+
       
----
+  - align: right
+    image: prof_pic_ytz.jpg
+    content: about_ytz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>MS. Yongtong Zhou</p>
+      <p>Email: yutongzhou@smail.nju.edu.cn</p>
+
+  - align: left
+    image: prof_pic_ql.jpg
+    content: about_ql.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>MS. Qing Li</p>
+      <p>Email: liqing2025@smail.nju.edu.cn</p>
+      
+  - align: right
+    image: prof_pic_yy.jpg
+    content: about_yy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>MS. Yang Yang</p>
+      <p>Email: yangyang2025@smail.nju.edu.cn</p>
+---            

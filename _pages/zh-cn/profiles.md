@@ -25,5 +25,27 @@ profiles:
       <p>张硕 硕士在读</p>
       <p>邮箱：shuo.zhang@smail.nju.edu.cn</p>
   
+  - align: right
+    image: prof_pic_ytz.jpg
+    content: about_ytz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>周雨彤 硕士在读</p>
+      <p>邮箱：yutongzhou@smail.nju.edu.cn</p>
 
----
+  - align: left
+    image: prof_pic_ql.jpg
+    content: about_ql.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>李晴 硕士在读</p>
+      <p>邮箱：liqing2025@smail.nju.edu.cn</p>
+      
+  - align: right
+    image: prof_pic_yy.jpg
+    content: about_yy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>杨扬 硕士在读</p>
+      <p>邮箱：yangyang2025@smail.nju.edu.cn</p>
+---            
