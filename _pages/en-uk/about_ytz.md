@@ -1,6 +1,6 @@
 I’m a master student supervised by Dr. Wenyuan Zhang. My main research interests are avian ecology and conservation biology.
 
-I like birdwatching, stargazing, collecting, reading, playing Go and traveling.
+I like birdwatching, stargazing, collecting, reading, playing Go and travelling.
 
 **Education Background:**
 
