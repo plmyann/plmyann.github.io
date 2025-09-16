@@ -15,7 +15,7 @@ profiles:
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Wenyuan Zhang</p>
+      <p>Dr. Wenyuan Zhang, </p>
       
       <p>PI of ZIEL</p>
 
