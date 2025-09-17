@@ -7,6 +7,6 @@ I am a master student in ZIEL, supervised by Dr. Wenyuan Zhang. My research focu
 2021-2025: College of Horticulture and Landscape Architecture, Southwest University, Landscape Architecture, Bachelor of Agriculture
 
 
-**Hobbies:** Badminton, Traveling
+**Hobbies:** Badminton, Travelling
 
 
