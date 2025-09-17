@@ -32,7 +32,7 @@ profiles:
     content: about_ytz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>MS. Yongtong Zhou</p>
+      <p>MS. Yutong Zhou</p>
       <p>Email: yutongzhou@smail.nju.edu.cn</p>
 
   - align: left
