@@ -32,7 +32,7 @@ profiles:
     content: about_ytz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>MS. Yutong Zhou</p>
+      <p>Ms. Yutong Zhou</p>
       <p>Email: yutongzhou@smail.nju.edu.cn</p>
 
   - align: left
@@ -40,7 +40,7 @@ profiles:
     content: about_ql.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>MS. Qing Li</p>
+      <p>Ms. Qing Li</p>
       <p>Email: liqing2025@smail.nju.edu.cn</p>
       
   - align: right
@@ -48,6 +48,6 @@ profiles:
     content: about_yy.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>MS. Yang Yang</p>
+      <p>Ms. Yang Yang</p>
       <p>Email: yangyang2025@smail.nju.edu.cn</p>
 ---            
