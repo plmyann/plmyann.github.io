@@ -2,7 +2,7 @@
 page_id: contacts
 layout: profiles
 permalink: /contact/
-title: 机会
+title: 联系
 description: 欢迎加入我们！
 nav: true
 nav_order: 6
