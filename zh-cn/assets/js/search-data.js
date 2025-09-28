@@ -48,13 +48,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zh-cn/contact/";
           },
-        },{id: "nav-联系",
-          title: "联系",
-          description: "欢迎联系！",
-          section: "导航栏",
-          handler: () => {
-            window.location.href = "/zh-cn/contact/";
-          },
         },{id: "news-um-anúncio-simples-em-uma-linha",
           title: 'Um anúncio simples em uma linha.',
           description: "",
