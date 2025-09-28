@@ -41,8 +41,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zh-cn/opportunities/";
           },
-        },{id: "nav-机会",
-          title: "机会",
+        },{id: "nav-联系",
+          title: "联系",
           description: "欢迎加入我们！",
           section: "导航栏",
           handler: () => {
