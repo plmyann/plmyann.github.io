@@ -10,11 +10,9 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
+  - align: right
     image: lab_logo2.png
     content: contact_c.md
     image_circular: false # crops the image to make it circular
     more_info:
-
-    Email: wenyuan.zhang@nju.edu.cn OR wzhang.ecoevo@gmail.com
 ---
