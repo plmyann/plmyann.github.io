@@ -1,18 +1,20 @@
 ---
-page_id: opportunities
+page_id: contacts
 layout: profiles
-permalink: /opportunities/
-title: Opportunities
-description: You are wanted!
+permalink: /contact/
+title: Contact
+description: Feel free to contact
 nav: true
-nav_order: 5
+nav_order: 6
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: lab_logo_pelican.png
-    content: opportunities_content.md
+    image: lab_logo2.png
+    content: contact_c.md
     image_circular: false # crops the image to make it circular
     more_info:
+
+    Email: wenyuan.zhang@nju.edu.cn OR wzhang.ecoevo@gmail.com
 ---
