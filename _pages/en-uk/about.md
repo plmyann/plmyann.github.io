@@ -7,7 +7,7 @@ subtitle: <a href='#'><i>To Appreciate the universe’s beauty and illuminate th
 
 profile:
   align: right
-  image: lab_logo2.png
+  image: lab_pro.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
