@@ -24,7 +24,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>张硕 硕士在读</p>
-      <p>邮箱：huozhang0119@smail.nju.edu.cn</p>
+      <p>邮箱：shuozhang0119@smail.nju.edu.cn</p>
   
   - align: right
     image: prof_pic_ytz.jpg

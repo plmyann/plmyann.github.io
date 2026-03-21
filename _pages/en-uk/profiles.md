@@ -24,7 +24,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mr. Shuo Zhang</p>
-      <p>Email: shuo.zhang@smail.nju.edu.cn</p>
+      <p>Email: shuozhang0119@smail.nju.edu.cn</p>
 
       
   - align: right
