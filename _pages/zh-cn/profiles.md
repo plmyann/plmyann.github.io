@@ -24,6 +24,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: left
+    image: prof_pic_ywc.jpg
+    content: about_ywc.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>陈逸文 博士在读</p>
+      <p> </p>
+
   - align: right
     image: prof_pic_kyl.jpg
     content: about_kyl.md
