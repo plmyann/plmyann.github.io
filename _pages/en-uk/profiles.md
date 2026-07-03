@@ -29,7 +29,7 @@ profiles:
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Weibo Wang PhD student</p>
+      <p>Mr. Weibo Wang</p>
       <p>Email:</p>
       </p>wwbooo@qq.com</p>
       
