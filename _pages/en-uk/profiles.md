@@ -55,7 +55,7 @@ profiles:
     more_info: >
       <p>Wuyang Zhang</p>
       <p>Email: zhangwy1223@gmail.com</p>
-      <p>Website: [gloridew.github.io](https://gloridew.github.io/)</p>
+      <p>Website: gloridew.github.io</p>
       
   - align: right
     image: prof_pic_ql.jpg

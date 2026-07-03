@@ -55,7 +55,7 @@ profiles:
     more_info: >
       <p>张武阳 研究实习生</p>
       <p>邮箱：zhangwy1223@gmail.com</p>
-      <p>网站：[gloridew.github.io](https://gloridew.github.io/)</p>
+      <p>网站：gloridew.github.io</p>
   
   - align: right
     image: prof_pic_ql.jpg
