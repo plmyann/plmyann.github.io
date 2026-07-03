@@ -1,5 +1,5 @@
 <br>
-I am a PhD student at the Institute of Zoology, Chinese Academy of Sciences, supervised by Dr. Daiping Wang. I am currently undertaking joint training at ZIEL under the guidance of Dr. Wenyuan Zhang, and I have greatly benefited from this friendly and professional environment. My research focuses on two independent directions: conservation genomics and landscape ecology. Specifically, I study the population genetics of the crested ibis (*Threskiornithinae*; an endangered bird), and integrate landscape ecology methods to explore how local landscapes shape global avian functional diversity.
+I am a PhD candidate at the Institute of Zoology, Chinese Academy of Sciences, supervised by Dr. Daiping Wang. I am currently undertaking joint training at ZIEL under the guidance of Dr. Wenyuan Zhang, and I have greatly benefited from this friendly and professional environment. My research focuses on two independent directions: conservation genomics and landscape ecology. Specifically, I study the population genetics of the crested ibis (*Threskiornithinae*; an endangered bird), and integrate landscape ecology methods to explore how local landscapes shape global avian functional diversity.
 
 **[Education Background]()**
 
