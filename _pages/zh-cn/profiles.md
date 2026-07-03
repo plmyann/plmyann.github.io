@@ -25,13 +25,29 @@ profiles:
     more_info: 
 
   - align: left
+    image: prof_pic_kyl.jpg
+    content: about_kyl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>李凯悦 硕士在读</p>
+      <p>邮箱：likaiyue415@nenu.edu.cn</p>
+      
+  - align: right
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>王伟波 博士在读</p>
-      <p>邮箱：</p>
-      <p>wwbooo@qq.com</p>
+      <p>邮箱：wwbooo@qq.com</p>
+      
+  - align: left
+    image: prof_pic_wyz.jpg
+    content: about_wyz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>张武阳 研究实习生</p>
+      <p>邮箱：zhangwy1223@gmail.com</p>
+      <p>网站：[gloridew.github.io](https://gloridew.github.io/)</p>
   
   - align: right
     image: prof_pic_ql.jpg

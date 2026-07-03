@@ -25,13 +25,29 @@ profiles:
     more_info: 
 
   - align: left
+    image: prof_pic_kyl.jpg
+    content: about_kyl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Kaiyue Li</p>
+      <p>Email: likaiyue415@nenu.edu.cn</p>
+      
+  - align: right
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Weibo Wang</p>
-      <p>Email:</p>
-      <p>wwbooo@qq.com</p>
+      <p>Email: wwbooo@qq.com</p>
+      
+  - align: left
+    image: prof_pic_wyz.jpg
+    content: about_wyz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Wuyang Zhang</p>
+      <p>Email: zhangwy1223@gmail.com</p>
+      <p>Website: [gloridew.github.io](https://gloridew.github.io/)</p>
       
   - align: right
     image: prof_pic_ql.jpg
