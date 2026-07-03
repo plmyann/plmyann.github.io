@@ -24,7 +24,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  - align: left
+  - align: right
     image: prof_pic_kyl.jpg
     content: about_kyl.md
     image_circular: false # crops the image to make it circular
