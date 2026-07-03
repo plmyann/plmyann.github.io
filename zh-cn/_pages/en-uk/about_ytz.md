@@ -3,10 +3,10 @@ I’m a master student supervised by Dr. Wenyuan Zhang. My main research interes
 
 I like birdwatching, stargazing, collecting, reading, playing Go and travelling.
 
-**Education Background:**
+**[Education Background]()**
 
-2025–present, School of Life Sciences, Nanjing University
+2025–present: School of Life Sciences, Nanjing University
 
-2019–2022, School of Law, Nanjing University
+2019–2022: School of Law, Nanjing University
 <br>
 
