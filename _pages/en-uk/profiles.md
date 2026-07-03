@@ -31,7 +31,7 @@ profiles:
     more_info: >
       <p>Mr. Weibo Wang</p>
       <p>Email:</p>
-      </p>wwbooo@qq.com</p>
+      <p>wwbooo@qq.com</p>
       
   - align: right
     image: prof_pic_ql.jpg

@@ -31,7 +31,7 @@ profiles:
     more_info: >
       <p>王伟波 博士在读</p>
       <p>邮箱：</p>
-      </p>wwbooo@qq.com</p>
+      <p>wwbooo@qq.com</p>
   
   - align: right
     image: prof_pic_ql.jpg
