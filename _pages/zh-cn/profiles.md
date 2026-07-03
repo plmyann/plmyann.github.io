@@ -19,7 +19,7 @@ profiles:
       <p>整合生态学实验PI</p>
       
   - align: left
-    image:  
+    image: 
     content: Separator.md
     image_circular: false # crops the image to make it circular
     more_info: 

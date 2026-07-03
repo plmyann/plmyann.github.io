@@ -30,7 +30,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Weibo Wang PhD student</p>
-      <p>Email: </p>
+      <p>Email:</p>
       </p>wwbooo@qq.com</p>
       
   - align: right
