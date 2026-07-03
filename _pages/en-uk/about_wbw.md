@@ -1,5 +1,3 @@
-<br>
-
 I’m a PhD student at ZIEL, supervised by Dr. Wenyuan Zhang. My research focuses on connectivity science and movement ecology, aiming to understand how environmental change shapes population dynamics through individual movement processes. Based on this, I seek to develop dynamic connectivity-based conservation planning frameworks to support biodiversity conservation under global change.
 
 **Educational Background**
