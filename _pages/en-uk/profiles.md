@@ -31,6 +31,7 @@ profiles:
     more_info: >
       <p>Weibo Wang PhD student</p>
       <p>Email: wwbooo@qq.com</p>
+      </p> </p>
       
   - align: right
     image: prof_pic_ql.jpg
