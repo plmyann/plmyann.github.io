@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'><i>To Appreciate the universe’s beauty and illuminate the truths underlying.<i></a>
+subtitle: <a href='#'><i>To appreciate the universe’s beauty and illuminate the truths underlying.<i></a>
 
 profile:
   align: right
