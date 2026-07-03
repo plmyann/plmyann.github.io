@@ -1,4 +1,4 @@
-
+<br><br>
 
 I am a master student of ZIEL supervised by Dr. Wenyuan Zhang. I am passionate about exploring the impacts of multiple environmental factors on organisms/biological communities. I focus on combining basic research with applied exploration to provide support for policies related to biodiversity and ecological security. 
 
@@ -9,5 +9,5 @@ I am a master student of ZIEL supervised by Dr. Wenyuan Zhang. I am passionate a
 2020 - 2024: School of Ecology and Environment, Yunnan University, B.Sc. in Ecology
 
 **Hobbies**：Basketball, hiking
-
+<br><br>
 
