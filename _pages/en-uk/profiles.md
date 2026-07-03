@@ -15,7 +15,7 @@ profiles:
     content: about_wz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Wenyuan Zhang, </p>
+      <p>Wenyuan Zhang, </p>
       <p>PI of ZIEL</p>
 
   - align: left
@@ -29,7 +29,7 @@ profiles:
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Mr. Weibo Wang</p>
+      <p>Weibo Wang</p>
       <p>Email:</p>
       <p>wwbooo@qq.com</p>
       
@@ -38,7 +38,7 @@ profiles:
     content: about_ql.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ms. Qing Li</p>
+      <p>Qing Li</p>
       <p>Email: liqing2025@smail.nju.edu.cn</p>
 
       
@@ -47,7 +47,7 @@ profiles:
     content: about_yy.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ms. Yang Yang</p>
+      <p>Yang Yang</p>
       <p>Email: yangyang2025@smail.nju.edu.cn</p>
 
       
@@ -56,7 +56,7 @@ profiles:
     content: about_ytz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ms. Yutong Zhou</p>
+      <p>Yutong Zhou</p>
       <p>Email: yutongzhou@smail.nju.edu.cn</p>
       
 
@@ -65,7 +65,7 @@ profiles:
     content: about_sz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Mr. Shuo Zhang</p>
+      <p>Shuo Zhang</p>
       <p>Email: shuozhang0119@smail.nju.edu.cn</p>
 
 
