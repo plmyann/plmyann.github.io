@@ -61,7 +61,7 @@ profiles:
       
 
   - align: left
-    image: prof_pic_sz.png
+    image: prof_pic_sz.jpg
     content: about_sz.md
     image_circular: false # crops the image to make it circular
     more_info: >
