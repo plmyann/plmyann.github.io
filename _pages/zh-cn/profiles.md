@@ -24,7 +24,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  - align: left
+  - align: right
     image: prof_pic_kyl.jpg
     content: about_kyl.md
     image_circular: false # crops the image to make it circular
@@ -32,13 +32,21 @@ profiles:
       <p>李凯悦 硕士在读</p>
       <p>邮箱：likaiyue415@nenu.edu.cn</p>
       
-  - align: right
+  - align: left
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>王伟波 博士在读</p>
       <p>邮箱：wwbooo@qq.com</p>
+      
+  - align: right
+    image: prof_pic_sy.jpg
+    content: about_sy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>杨帅 联合培养博士</p>
+      <p>邮箱：shuaiyang.bio@gmail.com</p>
       
   - align: left
     image: prof_pic_wyz.jpg

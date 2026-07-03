@@ -32,13 +32,21 @@ profiles:
       <p>Kaiyue Li</p>
       <p>Email: likaiyue415@nenu.edu.cn</p>
       
-  - align: right
+  - align: left
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Weibo Wang</p>
       <p>Email: wwbooo@qq.com</p>
+      
+  - align: right
+    image: prof_pic_sy.jpg
+    content: about_sy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Shuai Yang</p>
+      <p>Email: shuaiyang.bio@gmail.com</p>
       
   - align: left
     image: prof_pic_wyz.jpg
