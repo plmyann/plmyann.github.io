@@ -1,3 +1,3 @@
 <br>
-## Current members（Sort: Newest · Last name）
+## Current members（sort by join date and last name）
 <br>
