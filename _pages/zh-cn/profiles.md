@@ -33,6 +33,14 @@ profiles:
       <p> </p>
 
   - align: right
+    image: prof_pic_bhl.jpg
+    content: about_bhl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>刘博涵 本科在读</p>
+      <p>邮箱：251850178@smail.nju.edu.cn</p>
+      
+  - align: left
     image: prof_pic_kyl.jpg
     content: about_kyl.md
     image_circular: false # crops the image to make it circular
@@ -40,13 +48,21 @@ profiles:
       <p>李凯悦 硕士在读</p>
       <p>邮箱：likaiyue415@nenu.edu.cn</p>
       
-  - align: left
+  - align: right
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>王伟波 博士在读</p>
       <p>邮箱：wwbooo@qq.com</p>
+  
+  - align: left
+    image: prof_pic_wcx.jpg
+    content: about_wcx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>萧炜宸 本科在读</p>
+      <p>邮箱：251850147@smail.nju.edu.cn</p>
       
   - align: right
     image: prof_pic_sy.jpg

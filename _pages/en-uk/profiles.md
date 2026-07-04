@@ -33,6 +33,14 @@ profiles:
       <p> </p>
 
   - align: right
+    image: prof_pic_bhl.jpg
+    content: about_bhl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bohan Liu</p>
+      <p>Email: 251850178@smail.nju.edu.cn</p>
+      
+  - align: left
     image: prof_pic_kyl.jpg
     content: about_kyl.md
     image_circular: false # crops the image to make it circular
@@ -40,14 +48,22 @@ profiles:
       <p>Kaiyue Li</p>
       <p>Email: likaiyue415@nenu.edu.cn</p>
       
-  - align: left
+  - align: right
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Weibo Wang</p>
       <p>Email: wwbooo@qq.com</p>
-      
+
+  - align: left
+    image: prof_pic_wcx.jpg
+    content: about_wcx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Weichen Xiao</p>
+      <p>Email: 251850147@smail.nju.edu.cn</p>
+
   - align: right
     image: prof_pic_sy.jpg
     content: about_sy.md
