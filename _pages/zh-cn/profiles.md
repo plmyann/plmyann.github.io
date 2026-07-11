@@ -24,6 +24,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: right
+    image: prof_pic_mjc.png
+    content: about_mjc.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>陈明健 访问学生</p>
+      <p>邮箱：cameras77@bjfu.edu.cn</p>
+
   - align: left
     image: prof_pic_ywc.jpg
     content: about_ywc.md

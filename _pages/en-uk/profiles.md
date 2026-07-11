@@ -18,6 +18,14 @@ profiles:
       <p>Wenyuan Zhang, </p>
       <p>PI of ZIEL</p>
 
+  - align: right
+    image: prof_pic_mjc.png
+    content: about_mjc.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mingjian Chen</p>
+      <p>Email: cameras77@bjfu.edu.cn</p>
+
   - align: left
     image:  
     content: Separator.md
