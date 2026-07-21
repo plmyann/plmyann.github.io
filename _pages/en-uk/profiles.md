@@ -24,7 +24,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  - align: right
+  - align: left
     image: prof_pic_mjc.png
     content: about_mjc.md
     image_circular: false # crops the image to make it circular
@@ -32,7 +32,7 @@ profiles:
       <p>Mingjian Chen</p>
       <p>Email: cameras77@bjfu.edu.cn</p>
 
-  - align: left
+  - align: right
     image: prof_pic_ywc.jpg
     content: about_ywc.md
     image_circular: false # crops the image to make it circular
@@ -40,7 +40,7 @@ profiles:
       <p>Yiwen Chen</p>
       <p> </p>
 
-  - align: right
+  - align: left
     image: prof_pic_bhl.jpg
     content: about_bhl.md
     image_circular: false # crops the image to make it circular
@@ -48,7 +48,7 @@ profiles:
       <p>Bohan Liu</p>
       <p>Email: 251850178@smail.nju.edu.cn</p>
       
-  - align: left
+  - align: right
     image: prof_pic_kyl.jpg
     content: about_kyl.md
     image_circular: false # crops the image to make it circular
@@ -56,7 +56,7 @@ profiles:
       <p>Kaiyue Li</p>
       <p>Email: likaiyue415@nenu.edu.cn</p>
       
-  - align: right
+  - align: left
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
@@ -64,7 +64,7 @@ profiles:
       <p>Weibo Wang</p>
       <p>Email: wwbooo@qq.com</p>
 
-  - align: left
+  - align: right
     image: prof_pic_wcx.jpg
     content: about_wcx.md
     image_circular: false # crops the image to make it circular
@@ -72,7 +72,7 @@ profiles:
       <p>Weichen Xiao</p>
       <p>Email: 251850147@smail.nju.edu.cn</p>
 
-  - align: right
+  - align: left
     image: prof_pic_sy.jpg
     content: about_sy.md
     image_circular: false # crops the image to make it circular
@@ -80,7 +80,7 @@ profiles:
       <p>Shuai Yang</p>
       <p>Email: shuaiyang.bio@gmail.com</p>
       
-  - align: left
+  - align: right
     image: prof_pic_wyz.jpg
     content: about_wyz.md
     image_circular: false # crops the image to make it circular
@@ -88,6 +88,15 @@ profiles:
       <p>Wuyang Zhang</p>
       <p>Email: zhangwy1223@gmail.com</p>
       <p>Website: gloridew.github.io</p>
+
+  - align: left
+    image: prof_pic_jcz.jpg
+    content: about_jcz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Jincheng Zhang</p>
+      <p>Email: 251505002@smail.nju.edu.cn</p>
+
       
   - align: right
     image: prof_pic_ql.jpg

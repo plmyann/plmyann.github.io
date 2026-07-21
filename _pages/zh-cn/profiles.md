@@ -24,7 +24,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  - align: right
+  - align: left
     image: prof_pic_mjc.png
     content: about_mjc.md
     image_circular: false # crops the image to make it circular
@@ -32,7 +32,7 @@ profiles:
       <p>陈明健 访问学生</p>
       <p>邮箱：cameras77@bjfu.edu.cn</p>
 
-  - align: left
+  - align: right
     image: prof_pic_ywc.jpg
     content: about_ywc.md
     image_circular: false # crops the image to make it circular
@@ -40,7 +40,7 @@ profiles:
       <p>陈逸文 博士在读</p>
       <p> </p>
 
-  - align: right
+  - align: left
     image: prof_pic_bhl.jpg
     content: about_bhl.md
     image_circular: false # crops the image to make it circular
@@ -48,7 +48,7 @@ profiles:
       <p>刘博涵 本科在读</p>
       <p>邮箱：251850178@smail.nju.edu.cn</p>
       
-  - align: left
+  - align: right
     image: prof_pic_kyl.jpg
     content: about_kyl.md
     image_circular: false # crops the image to make it circular
@@ -56,7 +56,7 @@ profiles:
       <p>李凯悦 硕士在读</p>
       <p>邮箱：likaiyue415@nenu.edu.cn</p>
       
-  - align: right
+  - align: left
     image: prof_pic_wbw.jpg
     content: about_wbw.md
     image_circular: false # crops the image to make it circular
@@ -64,7 +64,7 @@ profiles:
       <p>王伟波 博士在读</p>
       <p>邮箱：wwbooo@qq.com</p>
   
-  - align: left
+  - align: right
     image: prof_pic_wcx.jpg
     content: about_wcx.md
     image_circular: false # crops the image to make it circular
@@ -72,7 +72,7 @@ profiles:
       <p>萧炜宸 本科在读</p>
       <p>邮箱：251850147@smail.nju.edu.cn</p>
       
-  - align: right
+  - align: left
     image: prof_pic_sy.jpg
     content: about_sy.md
     image_circular: false # crops the image to make it circular
@@ -80,7 +80,7 @@ profiles:
       <p>杨帅 联合培养博士</p>
       <p>邮箱：shuaiyang.bio@gmail.com</p>
       
-  - align: left
+  - align: right
     image: prof_pic_wyz.jpg
     content: about_wyz.md
     image_circular: false # crops the image to make it circular
@@ -88,6 +88,14 @@ profiles:
       <p>张武阳 研究实习生</p>
       <p>邮箱：zhangwy1223@gmail.com</p>
       <p>网站：gloridew.github.io</p>
+
+  - align: left
+    image: prof_pic_jcz.jpg
+    content: about_jcz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>张晋诚 本科在读</p>
+      <p>邮箱：251505002@smail.nju.edu.cn</p>
   
   - align: right
     image: prof_pic_ql.jpg
