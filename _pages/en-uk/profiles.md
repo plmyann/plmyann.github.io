@@ -38,7 +38,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Yiwen Chen</p>
-      <p> </p>
+      <p>Email: yiwenchen@smail.nju.edu.cn</p>
 
   - align: left
     image: prof_pic_bhl.jpg
@@ -62,7 +62,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Weibo Wang</p>
-      <p>Email: wwbooo@qq.com</p>
+      <p>Email: weibowang@smail.nju.edu.cn</p>
 
   - align: right
     image: prof_pic_wcx.jpg

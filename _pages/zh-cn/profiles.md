@@ -38,7 +38,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>陈逸文 博士在读</p>
-      <p> </p>
+      <p>邮箱：yiwenchen@smail.nju.edu.cn</p>
 
   - align: left
     image: prof_pic_bhl.jpg
@@ -62,7 +62,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>王伟波 博士在读</p>
-      <p>邮箱：wwbooo@qq.com</p>
+      <p>邮箱：weibowang@smail.nju.edu.cn</p>
   
   - align: right
     image: prof_pic_wcx.jpg
