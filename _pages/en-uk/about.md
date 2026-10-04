@@ -34,7 +34,7 @@ Welcome to **[ZIEL (the Zhang Integrative Ecology Lab)](/)**—where interests o
 
 **[Biodiversity Science](/)**
 
-We explore changes of biodiversity patterns and the underlying mechanisms to provide the evidence base for conservation under global change. This ranges from processes influencing our estimation on biodiveristy dynamics (e.g., sampling and monitoring schemes), to causal infereneces to biodiversity change, expecially when multiple factors are involved to the change.
+We explore changes of biodiversity patterns and the underlying mechanisms to provide the evidence base for conservation under global change. This ranges from processes influencing our estimation on biodiveristy dynamics (e.g., sampling and monitoring schemes), to causal infereneces to biodiversity change, expecially when multiple factors are involved to the change, and how we can utilise AI for better biodiversity change detection and conservation.
 
 **[Movement Ecology and Connectivity Conservation](/)**
 
