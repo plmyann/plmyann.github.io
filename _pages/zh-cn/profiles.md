@@ -25,12 +25,12 @@ profiles:
     more_info: 
 
   - align: left
-    image: prof_pic_mjc.png
-    content: about_mjc.md
+    image: prof_pic_wj.png
+    content: about_wj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>陈明健 访问学生</p>
-      <p>邮箱：cameras77@bjfu.edu.cn</p>
+      <p>金雯</p>
+      <p>邮箱：jinwen26@smail.nju.edu.cn</p>
 
   - align: right
     image: prof_pic_ywc.jpg
@@ -129,5 +129,19 @@ profiles:
     more_info: >
       <p>张硕 硕士在读</p>
       <p>邮箱：shuozhang0119@smail.nju.edu.cn</p>
-  
+      
+  - align: left
+    image: 
+    content: Separator2.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+    
+  - align: left
+    image:
+    content: about_mjc.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>陈明健</p>
+      <p>邮箱：cameras77@bjfu.edu.cn</p>
+
 ---            

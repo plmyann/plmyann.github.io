@@ -25,12 +25,12 @@ profiles:
     more_info: 
 
   - align: left
-    image: prof_pic_mjc.png
-    content: about_mjc.md
+    image: prof_pic_wj.png
+    content: about_wj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Mingjian Chen</p>
-      <p>Email: cameras77@bjfu.edu.cn</p>
+      <p>Wen Jin</p>
+      <p>Email: jinwen26@smail.nju.edu.cn</p>
 
   - align: right
     image: prof_pic_ywc.jpg
@@ -133,6 +133,17 @@ profiles:
       <p>Shuo Zhang</p>
       <p>Email: shuozhang0119@smail.nju.edu.cn</p>
 
+  - align: left
+    image:  
+    content: Separator2.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
 
-
+  - align: left
+    image:
+    content: about_mjc.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mingjian Chen</p>
+      <p>Email: cameras77@bjfu.edu.cn</p>
 ---            
