@@ -143,7 +143,5 @@ profiles:
     image:
     content: about_mjc.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Mingjian Chen</p>
-      <p>Email: cameras77@bjfu.edu.cn</p>
+    more_info:
 ---            

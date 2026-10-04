@@ -140,8 +140,7 @@ profiles:
     image:
     content: about_mjc.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>陈明健</p>
-      <p>邮箱：cameras77@bjfu.edu.cn</p>
+    more_info: 
+
 
 ---            
