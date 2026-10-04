@@ -54,7 +54,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Kaiyue Li</p>
-      <p>Email: likaiyue415@nenu.edu.cn</p>
+      <p>Email: kaiyueli@smail.nju.edu.cn</p>
       
   - align: left
     image: prof_pic_wbw.jpg

@@ -54,7 +54,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>李凯悦 硕士在读</p>
-      <p>邮箱：likaiyue415@nenu.edu.cn</p>
+      <p>邮箱：kaiyueli@smail.nju.edu.cn</p>
       
   - align: left
     image: prof_pic_wbw.jpg
