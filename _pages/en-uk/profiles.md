@@ -24,6 +24,15 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: right
+    image: prof_pic_bbg.jpg
+    content: about_bbg.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Beibei Gao</p>
+      <p>Email: cecilygao@smail.nju.edu.cn</p>
+      <p>Website: github.com/CecilyGao (same username on Gitee, GitCode, and CSDN)</p>
+
   - align: left
     image: prof_pic_wj.png
     content: about_wj.md

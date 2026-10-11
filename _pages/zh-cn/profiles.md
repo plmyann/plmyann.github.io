@@ -24,6 +24,15 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: right
+    image: prof_pic_bbg.jpg
+    content: about_bbg.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>高贝贝 本科在读</p>
+      <p>邮箱：cecilygao@smail.nju.edu.cn</p>
+      <p>网站：github.com/CecilyGao （Gitee, GitCode, CSDN主页同名）</p>
+
   - align: left
     image: prof_pic_wj.png
     content: about_wj.md
