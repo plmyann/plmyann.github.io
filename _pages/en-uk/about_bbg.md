@@ -3,7 +3,7 @@ I am an incoming master's student at ZIEL. My research focuses on leveraging AI 
 
 **[Education Background]()**
 
-2023-Present B.S. in Biological Science Specialty, School of Life Science, Nanjing University
+2023-Present: B.S. in Biological Science Specialty, School of Life Science, Nanjing University
 
 **[Hobbies:]()** Singing, swimming, petting cats, training bots.
 <br>
