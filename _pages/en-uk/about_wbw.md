@@ -1,4 +1,4 @@
-I’m a PhD student at ZIEL, co-supervised by Dr. Wenyuan Zhang and [Dr. Yanjie Xu](https://yanjie-xu.github.io). My research focuses on connectivity science and movement ecology, aiming to understand how environmental change shapes population dynamics through individual movement processes. Based on this, I seek to develop dynamic connectivity-based conservation planning frameworks to support biodiversity conservation under global change.
+I’m a PhD student at ZIEL, co-supervised by Dr. Wenyuan Zhang and [Dr. Yanjie Xu](https://yanjie-xu.github.io/). My research focuses on connectivity science and movement ecology, aiming to understand how environmental change shapes population dynamics through individual movement processes. Based on this, I seek to develop dynamic connectivity-based conservation planning frameworks to support biodiversity conservation under global change.
 
 **[Education Background]()**
 
