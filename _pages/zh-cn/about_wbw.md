@@ -10,5 +10,9 @@
 2018–2022：浙江农林大学动物科技学院，动物科学，农学学士
 
 **[爱好：]()**动物摄影，户外探索，手工艺品，策略游戏
+
+**[相关论文]()**
+
+__Weibo Wang__, Zhixin Wen ... Lin Xia, Qisen Yang. 2025. Changes in utilization of canal crossing structures by desert mammal communities during the COVID-19 lockdown. _Ecological Solutions and Evidence_.
 <br>
 <br>
