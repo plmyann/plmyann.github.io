@@ -12,4 +12,4 @@ I’m a PhD student at ZIEL, co-supervised by Dr. Wenyuan Zhang and [Dr. Yanjie 
 <br>
 
 **[Selected publications]()** <br>
-__Weibo Wang__, Zhixin Wen ... Lin Xia, Qisen Yang. 2025. Changes in utilization of canal crossing structures by desert mammal communities during the COVID-19 lockdown. _Ecological Solutions and Evidence_.
+__Weibo Wang__, Zhixin Wen, ... Lin Xia, Qisen Yang. 2025. Changes in utilization of canal crossing structures by desert mammal communities during the COVID-19 lockdown. _Ecological Solutions and Evidence_.
