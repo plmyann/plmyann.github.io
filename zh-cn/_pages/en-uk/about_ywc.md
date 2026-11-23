@@ -1,6 +1,6 @@
 <br>
 
-I am a Ph.D. student in ZIEL under the supervision of Dr. Wenyuan Zhang. My research focuses on the temporal dynamics of biodiversity, aiming to understand the relationship between biodiversity and ecosystem stability from a new perspective.
+I am a Ph.D. student in ZIEL under the co-supervision of Dr. Wenyuan Zhang and [Dr. Katherine Hébert](https://katherinehebert.github.io/). My research focuses on the temporal dynamics of biodiversity, aiming to understand the relationship between biodiversity and ecosystem stability from a new perspective.
 
 **[Education Background]()**
 
