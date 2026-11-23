@@ -12,5 +12,8 @@ I am a Ph.D. student in ZIEL under the co-supervision of Dr. Wenyuan Zhang and [
 
 
 **[Hobbies:]()** Movies, basketball, travel
-<br>
 
+**[Selected publications]()**<br>
+__Yiwen Chen__, Taifeng Guo...Yaohua Hu. 2025. Development of a nitrogen requirement map generation method for potato based on UAV visible light image. _Computers and Electronics in Agriculture_<br>
+__Yiwen Chen__, Yaohua Hu...Linrun Cheng. 2025. Study on Prediction of Potato Above-Ground Biomass and Yield Based on UAV Visible Light Image. _Remote Sensing_
+<br>
